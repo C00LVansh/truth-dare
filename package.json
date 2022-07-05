@@ -1,0 +1,23 @@
+{
+  "name": "truth-dare",
+  "version": "1.0.6",
+  "description": "A package which generates truth-dare questions!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "truth-dare",
+    "truth",
+    "dare",
+    "truth npm",
+    "dare npm",
+    "truth dare npm",
+    "truth and dare"
+  ],
+  "author": "Vanshthelegend",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
